@@ -21,6 +21,6 @@ En el taller se explorará y debatirá sobre **configuraciones curriculares** y 
   - Planificación de trayectos de formación en RT3D con Unity Engine.
 </details>
 
-![Descripción de la imagen](imagenes/portada.png)
+![Descripción de la imagen](Imagenes/Portada.png)
 
 ### 📅 [Cronograma 2024](https://jadicc2024.dc.exa.unrc.edu.ar/index.html#section-schedules)
