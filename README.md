@@ -3,7 +3,7 @@
 Este taller ofrece un espacio de aproximación inicial al **diseño de programas educativos** enfocados en el desarrollo o producción de **realidad virtual (VR)**, **realidad aumentada (AR)**, **realidad extendida (XR)** y **videojuegos**.
 
 <details>
-  <summary>🔍 Programa</summary>
+  <summary>🔍Programa</summary>
  
 En el contexto de la **industria 4.0**, donde las aplicaciones inmersivas cobran relevancia, el objetivo es no solo consumir estas tecnologías, sino también formar profesionales que se desempeñen en la industria **RT3D**.
 
@@ -23,4 +23,4 @@ En el taller se explorará y debatirá sobre **configuraciones curriculares** y 
 
 ![Descripción de la imagen](Imagenes/Portada.png)
 
-### 📅 [Cronograma 2024](https://jadicc2024.dc.exa.unrc.edu.ar/index.html#section-schedules)
+📅 [Cronograma 2024](https://jadicc2024.dc.exa.unrc.edu.ar/index.html#section-schedules)
